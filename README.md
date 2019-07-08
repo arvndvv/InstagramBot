@@ -5,8 +5,8 @@
            Logs into your account and goto a specific hashtag and likes almost 45 posts in it
            helps to make your Insta active and hence bring back to you, followers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-                                         REQUIREMENTS
-                          FireFox Browser, Python, Selenium, geckodriver
+                                            REQUIREMENTS
+                             FireFox Browser, Python, Selenium, geckodriver
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
                                          INSTRUCTIONS
        before running make sure you have installed selenium, use the following code for that
